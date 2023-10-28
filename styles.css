@@ -1,0 +1,29 @@
+.body {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.heading {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.reuben {
+    text-align: left;
+}
+
+.tilapia {
+    text-align: center;
+}
+
+.chicken {
+    text-align: right;
+}
+
+.pictures {
+    width: 300px;
+    height:auto;
+    vertical-align:top
+}
