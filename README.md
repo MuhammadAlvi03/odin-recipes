@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe book with 3 recipes in it, it has a homepage that leads to 3 different pages for each respective recipe.
